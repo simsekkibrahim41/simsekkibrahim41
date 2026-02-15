@@ -1,13 +1,11 @@
-
 ## İbrahim Şimşek
 Java Backend Developer — Belde A.Ş. / Kocaeli Büyükşehir Belediyesi
-Düzce Üniversitesi Bilgisayar Mühendisliği mezunuyum. Java ekosisteminde kurumsal yazılım geliştirme üzerine çalışıyorum.
 
-Kocaeli Büyükşehir Belediyesi bünyesinde **Belde A.Ş.**'de Bilgisayar Mühendisi olarak görev yapıyorum.
+---
 
-Daha önce **Bimser Türkiye**'de Test Uzmanı olarak yazılım test süreçlerinde deneyim kazandım.
+Düzce Üniversitesi Bilgisayar Mühendisliği mezunuyum. Kurumsal yazılım geliştirme üzerine çalışıyorum. Daha önce Bimser Türkiye'de Test Uzmanı olarak görev yaptım.
 
-## Teknolojiler
+### Teknolojiler
 
 **Backend:** Java, Spring Boot, Hibernate, JPA
 
@@ -17,13 +15,13 @@ Daha önce **Bimser Türkiye**'de Test Uzmanı olarak yazılım test süreçleri
 
 **Araçlar:** Git, Maven, IntelliJ IDEA
 
-## Projeler
+### Projeler
 
 - [JavaPersonel_Stok](https://github.com/simsekkibrahim41/JavaPersonel_Stok) — Personel takip ve stok yönetimi (Java)
 - [NorthwindBackend](https://github.com/simsekkibrahim41/NorthwindBackend) — Katmanlı mimari backend API (Java)
 - [DerinceBelediyesi](https://github.com/simsekkibrahim41/DerinceBelediyesi) — Belediye stok takip otomasyonu (C#)
 - [Otomasyon](https://github.com/simsekkibrahim41/Otomasyon) — Kütüphane otomasyon sistemi (C#)
 
-## İletişim
+### İletişim
 
 [LinkedIn](https://www.linkedin.com/in/ibrahim-%C5%9Fim%C5%9Fek-4a758124a/)
