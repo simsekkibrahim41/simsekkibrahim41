@@ -1,5 +1,6 @@
-# Merhaba! 👋 Ben İbrahim Şimşek
 
+## İbrahim Şimşek
+Java Backend Developer — Belde A.Ş. / Kocaeli Büyükşehir Belediyesi
 Düzce Üniversitesi Bilgisayar Mühendisliği mezunuyum. Java ekosisteminde kurumsal yazılım geliştirme üzerine çalışıyorum.
 
 Kocaeli Büyükşehir Belediyesi bünyesinde **Belde A.Ş.**'de Bilgisayar Mühendisi olarak görev yapıyorum.
