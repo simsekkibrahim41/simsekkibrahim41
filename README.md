@@ -28,10 +28,6 @@ Daha önce **Bimser Türkiye**'de Test Uzmanı olarak yazılım test süreçleri
 | [DerinceBelediyesi](https://github.com/simsekkibrahim41/DerinceBelediyesi) | Belediye stok takip otomasyonu | C# |
 | [Otomasyon](https://github.com/simsekkibrahim41/Otomasyon) | Kütüphane otomasyon sistemi | C# |
 
-## 📊 İstatistikler
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsekkibrahim41&show_icons=true&theme=dark&locale=tr&hide_border=true)
-
 ## 📫 İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-%C5%9Fim%C5%9Fek-4a758124a/)
